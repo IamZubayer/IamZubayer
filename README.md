@@ -22,6 +22,10 @@ I believe consistency beats talent — and I’m on a mission to prove it.
 
 ---
 
+[![Open in Replit](https://img.shields.io/badge/Open%20in-Replit-black?logo=replit)](https://replit.com/@fahimzubayeryou/REPL_NAME)
+
+---
+
 ## 🛠 Tech & Tools  
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)  
