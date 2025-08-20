@@ -1,4 +1,6 @@
-# 👋 Hello there, I’m Fahim  ![Flickering Bulb](./assets/flickering-bulb.gif)
+# 👋 Hello there, I’m Fahim 
+
+![Flickering Bulb](./assets/flickering-bulb.gif)
 
 💻 Aspiring Software Engineer | 🚀 Future ITTIAN | 📚 Lifelong Learner  
 
