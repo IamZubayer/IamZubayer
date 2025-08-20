@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hey, I’m Fahim  
 
-<!--
-**IamZubayer/IamZubayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Engineer | 🚀 Future Innovator | 📚 Lifelong Learner  
 
-Here are some ideas to get you started:
+I’m a 14-year-old passionate about **technology, problem-solving, and growth**.  
+I believe consistency beats talent — and I’m on a mission to prove it.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 Current Focus  
+- Strengthening my foundation in **JavaScript & Python**  
+- Practicing **algorithms & problem-solving**  
+- Building projects to apply my knowledge  
+
+---
+
+## 🎯 Long-Term Goals  
+- Crack **IIT/JEE** and pursue Computer Science  
+- Contribute to **open-source projects**  
+- Build impactful tech products before 2027  
+- Reach **financial independence 🔥**  
+
+---
+
+## 🛠 Tech & Tools  
+![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IamZubayer&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IamZubayer&theme=radical)  
+
+---
+
+✨ *"Discipline beats motivation. Daily grind builds legends."*  
