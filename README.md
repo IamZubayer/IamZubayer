@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Fahim  
+# 👋 Hello there, I’m Fahim  
 
 💻 Aspiring Software Engineer | 🚀 Future Innovator | 📚 Lifelong Learner  
 
