@@ -8,9 +8,8 @@ I believe consistency beats talent — and I’m on a mission to prove it.
 ---
 
 ## ⭐ Featured Projects
-** HTML_Cheatsheet **
-Stack: HTML, CSS · Role: Solo
-https://iamzubayer.github.io/HTML-Cheatsheet/
+
+[![HTML Cheatsheet](https://img.shields.io/badge/Project-HTML_Cheatsheet-blue?style=flat-square)](https://iamzubayer.github.io/HTML-Cheatsheet/)
 
 ---
 
