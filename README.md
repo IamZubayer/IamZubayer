@@ -1,6 +1,6 @@
 # 👋 Hello there, I’m Fahim  
 
-💻 Aspiring Software Engineer | 🚀 Future Innovator | 📚 Lifelong Learner  
+💻 Aspiring Software Engineer | 🚀 Future ITTIAN | 📚 Lifelong Learner  
 
 I’m a 14-year-old passionate about **technology, problem-solving, and growth**.  
 I believe consistency beats talent — and I’m on a mission to prove it.  
