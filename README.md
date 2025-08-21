@@ -28,7 +28,7 @@ I believe consistency beats talent — and I’m on a mission to prove it.
 
 ---
 ## 💻 Checkout My Replit
-[![Open in Replit](https://img.shields.io/badge/Open%20in-Replit-black?logo=replit)](https://replit.com/@fahimzubayeryou/REPL_NAME)
+[![Open in Replit](https://img.shields.io/badge/Open%20in-Replit-black?logo=replit)](https://replit.com/@fahimzubayeryou)
 
 ---
 
